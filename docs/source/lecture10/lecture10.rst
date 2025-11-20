@@ -35,6 +35,7 @@ Contents
    messages
    publishers
    subscribers
+   lecture
    exercises
 
 Next Steps
